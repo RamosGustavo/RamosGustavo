@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning noSQL **with MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://RamosGustavo.github.io/Portfolio/](https://felipeofor.github.io/Portfolio/)
-
 - 💬 Ask me about **JavaScript, React.js, MongoDb, Express, Node.js**
 
 - 📫 How to reach me **gr4030077@gmail.com**
