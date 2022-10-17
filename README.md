@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramos Gustavo</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning noSQL **with MongoDB**
-
-- 💬 Ask me about **JavaScript, React.js, MongoDb, Express, Node.js**
+- 💬 Ask me about **JavaScript, React.js, Express, Node.js**
 
 - 📫 How to reach me **ramosgustavodev@gmail.com**
 
